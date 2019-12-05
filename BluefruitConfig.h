@@ -1,7 +1,13 @@
-/* Common BLE configuration file as a part of standard Flora documentation
- *  This and other Adafruit example code can be found at: 
- *  https://learn.adafruit.com/adafruit-flora-bluefruit-le/example-code
- */
+/* Joleen Powers
+ * SI 435: Computational Thinking Through Making
+ * Final Project: Smart Reminder for Ideopathic Toe Walking
+ * XX December 2019
+ * ------------------------------------- 
+ * Common BLE configuration file as a part of standard Flora documentation
+ * This and other Adafruit example code can be found at: 
+ * https://learn.adafruit.com/adafruit-flora-bluefruit-le/example-code
+*/
+
 
 // COMMON SETTINGS
 // ----------------------------------------------------------------------------------------------
